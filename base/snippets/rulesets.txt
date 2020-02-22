@@ -1,4 +1,5 @@
-
+;CHINA,rules/ConnersHua/Surge/Ruleset/China.list
+CHINA,[]GEOIP,CN
 
 
 ;LAN,rules/LocalAreaNetwork.list
