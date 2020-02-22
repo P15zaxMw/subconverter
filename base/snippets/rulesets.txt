@@ -1,5 +1,7 @@
 CHINA,rules/ACL4SSR/Clash/ChinaIp.list
 CHINA,rules/ACL4SSR/Clash/ChinaDomain.list
+ADS,rules/ACL4SSR/Clash/BanAD.list
+ADS,rules/ACL4SSR/Clash/BanProgramAD.list
 ;LAN,rules/LocalAreaNetwork.list
 ;Ⓜ️ 微软服务,rules/MSServices.list
 ;🎯 全球直连,rules/ConnersHua/Surge/Ruleset/Unbreak.list
