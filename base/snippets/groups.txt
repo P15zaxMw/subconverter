@@ -1,7 +1,8 @@
 PROXY`select`.*
 ;♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300
 🎥 NETFLIX`select`(Smart|Netflix)
-CHINA`select`[]DIRECT`.*
+ADS`select`[]REJECT`[]PROXY
+CHINA`select`[]DIRECT`[]PROXY
 ;⛔️ 广告拦截`select`[]🛑 全球拦截`[]🎯 全球直连`[]🔰 节点选择
 ;🚫 运营劫持`select`[]🛑 全球拦截`[]🎯 全球直连`[]🔰 节点选择
 ;🌍 国外媒体`select`[]🔰 节点选择`[]🎯 全球直连`.*
