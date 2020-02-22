@@ -1,7 +1,5 @@
-;CHINA,rules/ConnersHua/Surge/Ruleset/China.list
-CHINA,[]GEOIP,CN
-
-
+CHINA,rules/ACL4SSR/Clash/ChinaIp.list
+CHINA,rules/ACL4SSR/Clash/ChinaDomain.list
 ;LAN,rules/LocalAreaNetwork.list
 ;Ⓜ️ 微软服务,rules/MSServices.list
 ;🎯 全球直连,rules/ConnersHua/Surge/Ruleset/Unbreak.list
