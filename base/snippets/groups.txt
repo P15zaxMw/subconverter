@@ -1,4 +1,4 @@
-🔰 节点选择`select`[]🎯 全球直连`.*
+PROXY`select`.*
 ;♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300
 ;🎥 NETFLIX`select`[]🔰 节点选择`[]♻️ 自动选择`[]🎯 全球直连`.*
 ;⛔️ 广告拦截`select`[]🛑 全球拦截`[]🎯 全球直连`[]🔰 节点选择
@@ -9,7 +9,7 @@
 ;📲 电报信息`select`[]🔰 节点选择`[]🎯 全球直连`.*
 ;🍎 苹果服务`select`[]🔰 节点选择`[]🎯 全球直连`[]♻️ 自动选择`.*
 LAN`select`[]DIRECT
-🎯 全球直连`select`[]DIRECT
-🛑 全球拦截`select`[]REJECT`[]DIRECT
+;🎯 全球直连`select`[]DIRECT
+;🛑 全球拦截`select`[]REJECT`[]DIRECT
 ;🐟 漏网之鱼`select`[]🔰 节点选择`[]🎯 全球直连`.*
-OTHER`select`[]🔰 节点选择`[]🎯 全球直连
+OTHER`select`[]PROXY`[]DIRECT
