@@ -8,7 +8,7 @@ PROXY`select`.*
 ;Ⓜ️ 微软服务`select`[]🎯 全球直连`[]🔰 节点选择
 ;📲 电报信息`select`[]🔰 节点选择`[]🎯 全球直连`.*
 ;🍎 苹果服务`select`[]🔰 节点选择`[]🎯 全球直连`[]♻️ 自动选择`.*
-LAN`select`[]DIRECT
+;LAN`select`[]DIRECT
 ;🎯 全球直连`select`[]DIRECT
 ;🛑 全球拦截`select`[]REJECT`[]DIRECT
 ;🐟 漏网之鱼`select`[]🔰 节点选择`[]🎯 全球直连`.*
