@@ -12,4 +12,4 @@
 🎯 全球直连,rules/ConnersHua/Surge/Ruleset/China.list
 🎯 全球直连,rules/NobyDa/Surge/Download.list
 🎯 全球直连,[]GEOIP,CN
-🐟 漏网之鱼,[]FINAL
+OTHER,[]FINAL
